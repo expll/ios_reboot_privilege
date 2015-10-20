@@ -1,0 +1,11 @@
+Package: com.wc.wc
+Name: 腾讯云统计刷用户
+Version: 0.1-1
+Description: haoganhuo
+Section: app
+Depends: firmware (>= 4.3)
+Priority: optional
+Architecture: iphoneos-arm
+Author: linge <http://haoganhuo.taobao.com>
+Homepage: http://haoganhuo.taobao.com
+Maintainer: linge <http://haoganhuo.taobao.com>

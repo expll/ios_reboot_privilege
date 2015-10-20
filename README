@@ -1,0 +1,7 @@
+macport:
+http://www.macports.org/install.php
+sudo port -f install dpkg
+
+dpkg-deb -b DEB打包 reboot.deb
+
+cd /Applications/;chmod -R 777 reboot.app;chmod 6777 reboot.app/mobile_reboot;chown -R root:wheel reboot.app
